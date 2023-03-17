@@ -43,7 +43,7 @@ plt.plot(x,y_predicted,color='pink')
 plt.show()
 
 ## Output:
-![image](https://user-images.githubusercontent.com/121932143/225861771-1244ffab-204b-4331-91ed-9972578879f5.png)
+![image](image.png)
 
 
 ## Result
