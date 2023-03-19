@@ -45,7 +45,7 @@ plt.show()
 ## Output:
 
 
-![Screenshot 2023-03-15 140113](https://user-images.githubusercontent.com/121932143/226156687-958b63a2-e03b-4803-aef4-ae38d5ffc9f6.png)
+![Screenshot 2023-03-15 140113](image.png)
 
 
 ## Result
